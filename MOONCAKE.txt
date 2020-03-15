@@ -1,0 +1,13 @@
+1,Lotus Paste,2020-11-22,Mooncake,6,Moon Cake Jie Jie,True
+2,Lotus Paste Single Yolk,2020-12-5,Mooncake,8,Tai Tai Moon Cake,True
+3,Lotus Paste Double Yolks,2020-12-17,Mooncake,12,Tai Tai Moon Cake,True
+4,Red Bean Paste,2020-11-29,Mooncake,5,Ma Ma Cake,False
+5,White Lotus Single Yolk,2020-12-26,Mooncake,7,Joker Mooncake,True
+6,White Lotus Double Yolk,2020-12-15,Mooncake,9,Tai Tai Moon Cake,True
+7,Low Sugar White Lotus,2020-11-30,Mooncake,7.5,Er Mei Biscuit,False
+8,Low Sugar White Lotus Single Yolk,2020-11-23,Mooncake,9.5,Tai Tai Moon Cake,False
+9,Assorted Fruit Nuts,2020-12-9,Mooncake,5.5,Tai Tai Moon Cake,False
+10,Snow Skin Lotus,2020-11-16,Mooncake,4,Chang Er Moon Cake,True
+11,Snow Skin Lotus Single Yolk,2020-11-2,Mooncake,5,Xiao Mei Mei,True
+12,Snow Skin Red Bean,2020-11-28,Mooncake,4,Joker Mooncake,False
+13,Snow Skin Durian Coulis,2020-11-5,Mooncake,8,Joker Mooncake,False

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head><title>Filter</title></head>
+    <body>
+        <table>
+            <tr>
+                <th>Item Number</th>
+                <th>Name</th>
+                <th>Source</th>
+            </tr>
+            {% for entry in result %}
+            <tr>
+                <td>{{entry[0]}}</td>
+                <td>{{entry[1]}}</td>
+                <td>{{entry[2]}}</td>
+            </tr>
+            {% endfor %}
+        </table>
+        <a href="{{url_for('index')}}">Back</a>
+    </body>
+</html>

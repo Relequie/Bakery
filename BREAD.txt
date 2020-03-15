@@ -1,0 +1,10 @@
+20,Cuban,2020-3-3,Bread,3,Mr Moon,Yeast
+21,Brioche,2020-3-3,Bread,2,Chang Er Moon Cake,Yeast
+22,Anadama,2020-3-3,Bread,8,Da Yue Liang Yue Bing,Yeast
+23,Bagel,2020-3-3,Bread,6,Da Yue Liang Yue Bing,Yeast
+24,Baguette,2020-3-2,Bread,5,Chang Er Moon Cake,Yeast
+25,Canadian White,2020-3-3,Bread,6,567 Mooncake,White
+26,Ciabatta,2020-3-2,Bread,8,Chang Er Moon Cake,White
+27,Chapati,2020-3-2,Bread,3,Tai Tai Moon Cake,Flatbread
+28,Laobing,2020-3-2,Bread,9,Ma Ma Cake,Flatbread
+29,Tortilla,2020-3-3,Bread,6,Er Mei Biscuit,Flatbread
